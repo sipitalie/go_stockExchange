@@ -1,0 +1,20 @@
+{   
+    "buy":{
+    "order_id":"2",
+    "investor_id":"Kurama",
+    "asset_id":"asset1",
+    "current_shares":0,
+    "shares":5,
+    "price":5.0,
+    "order_type":"BUY"
+    },
+    "sell":{
+    "order_id":"1",
+    "investor_id":"Sipitali",
+    "asset_id":"asset1",
+    "current_shares":10,
+    "shares":5,
+    "price":5.0,
+    "order_type":"SELL"
+}
+}
